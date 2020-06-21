@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Psicologia</string>
+    <string name="Bienvenidos">Bienvenidos a la Aplicación de Psicología</string>
+    <string name="ButtonLogin">LOGIN</string>
+    <string name="ButtonRegister">REGISTRARSE</string>
+    <string name="message_register">Vas a registrarte en la Aplicacion</string>
+    <string name="message_login">Vas a logarte en la Aplicacion</string>
+    <string name="login">LOGIN</string>
+    <string name="passwordTextView">PASSWORD</string>
+    <string name="usertextview">NOMBRE DE USUARIO</string>
+</resources>

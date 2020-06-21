@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Psychology</string>
+    <string name="Bienvenidos">Welcome to the Psychology AAP</string>
+    <string name="ButtonLogin">LOGIN</string>
+    <string name="ButtonRegister">REGISTER</string>
+    <string name="message_register">You are going to Register in the App</string>
+    <string name="message_login">You are going to Log in the App</string>
+    <string name="login">LOGIN</string>
+    <string name="usertextview">USERNAME</string>
+    <string name="passwordTextView">PASSWORD</string>
+</resources>

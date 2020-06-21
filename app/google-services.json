@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571100192165",
+    "firebase_url": "https://psicologia-535b7.firebaseio.com",
+    "project_id": "psicologia-535b7",
+    "storage_bucket": "psicologia-535b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571100192165:android:7d82152d9150db9112dc4c",
+        "android_client_info": {
+          "package_name": "com.example.psicologia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571100192165-v7o34uakmc9ega7e245uofdhid4mopfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk52z7RVVh96qvfB9NyqfEI0RyMlSFbIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571100192165-v7o34uakmc9ega7e245uofdhid4mopfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
